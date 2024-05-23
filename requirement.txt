@@ -1,0 +1,10 @@
+langchain
+langchain_community
+tiktoken
+langchain-openai
+chromadb
+pandas
+Numpy
+matplotlib
+streamlit
+ollama
