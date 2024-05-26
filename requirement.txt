@@ -8,3 +8,4 @@ Numpy
 matplotlib
 streamlit
 ollama
+sentence_transformers
